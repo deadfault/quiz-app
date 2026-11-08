@@ -1,1 +1,1 @@
-# quiz-app
+# quiz-app for windows x64
